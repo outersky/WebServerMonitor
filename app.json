@@ -1,0 +1,6 @@
+{
+    "url":"https://localhost/",
+    "scanIntervals":10,
+    "maxErrorCount":6,
+    "cmd":"restartTomcat.bat"
+}
